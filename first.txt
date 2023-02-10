@@ -1,1 +1,3 @@
-Hello gite
+Hello gite.
+
+Today is my second day.
